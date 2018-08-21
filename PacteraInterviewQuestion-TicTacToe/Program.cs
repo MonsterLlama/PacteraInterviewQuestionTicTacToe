@@ -40,7 +40,7 @@ namespace PacteraInterviewQuestion_TicTacToe
                 throw new ArgumentException(message: $"Can't play a spot already played! (Row: {point.Row}, Column: {point.Column})", paramName: nameof(point));
             }
 
-            // Place 'X' or 'Y' on the board in the spot specificed by the 'point' paramter.
+            // Place 'X' or 'O' on the board in the spot specificed by the 'point' paramter.
             _board[point.Row, point.Column] = player;
 
 
