@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacteraInterviewQuestion-TicTacToe", "PacteraInterviewQuestion-TicTacToe\PacteraInterviewQuestion-TicTacToe.csproj", "{5C511C01-8474-4F11-B7A3-FD97CF1CA58E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeUnitTests", "TicTacToeUnitTests\TicTacToeUnitTests.csproj", "{CA628FA9-F349-4718-B38B-EB3E573F7684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C511C01-8474-4F11-B7A3-FD97CF1CA58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C511C01-8474-4F11-B7A3-FD97CF1CA58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C511C01-8474-4F11-B7A3-FD97CF1CA58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA628FA9-F349-4718-B38B-EB3E573F7684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA628FA9-F349-4718-B38B-EB3E573F7684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA628FA9-F349-4718-B38B-EB3E573F7684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA628FA9-F349-4718-B38B-EB3E573F7684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
